@@ -4,10 +4,6 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
 
-apply plugin: 'com.github.dcendents.android-maven'
-
-group='com.github.sexlog'
-
 buildscript {
     ext.appcenter_version = '1.4.0'
 }

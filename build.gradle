@@ -20,6 +20,10 @@ buildscript {
     }
 }
 
+subprojects {
+    apply plugin: 'maven'
+}
+
 allprojects {
     repositories {
         google()
