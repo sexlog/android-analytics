@@ -1,1 +1,1 @@
-include ':app', ':analytics'
+include ':app', ':analytics', ':analytics-appcenter'

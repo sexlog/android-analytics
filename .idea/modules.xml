@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/analytics/analytics.iml" filepath="$PROJECT_DIR$/analytics/analytics.iml" />
       <module fileurl="file://$PROJECT_DIR$/analytics-app.iml" filepath="$PROJECT_DIR$/analytics-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/analytics-appcenter/analytics-appcenter.iml" filepath="$PROJECT_DIR$/analytics-appcenter/analytics-appcenter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
