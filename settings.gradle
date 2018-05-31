@@ -1,1 +1,1 @@
-include ':app', ':analytics', ':analytics-appcenter'
+include ':app', ':analytics', ':analytics-appcenter', ':flurry'
