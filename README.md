@@ -3,4 +3,5 @@
 ```
 implementation "com.github.sexlog.android-analytics:analytics-appcenter:$analytics_version"
 implementation "com.github.sexlog.android-analytics:analytics:$analytics_version"
+implementation 'com.github.sexlog.android-analytics:flurry:$analytics_version'
 ```
